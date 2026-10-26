@@ -1,8 +1,10 @@
 <img width="1536" height="1024" alt="Maraavillosa_ viaje brillante y glamuroso" src="https://github.com/user-attachments/assets/bab6d853-788e-452c-8a09-c85ec9667d6c" />
 
 # PARCIAL-2-CASO-A
+Trabajo Académico
+Creado Usando Ayuda de IA
 
-NOMBRE DE LA EMPRESA: Maraavillosa S.A.S
+NOMBRE DE LA EMPRESA: Maraavillosa
 Maraavillosa es una agencia de viajes creada especialmente para mujeres, enfocada en ofrecer experiencias de viaje seguras, cómodas y memorables. 
 
 MISIÓN

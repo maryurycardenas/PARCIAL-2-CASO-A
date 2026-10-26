@@ -5,6 +5,7 @@ Trabajo Académico
 Creado Usando Ayuda de IA
 
 NOMBRE DE LA EMPRESA: Maraavillosa
+
 Maraavillosa es una agencia de viajes creada especialmente para mujeres, enfocada en ofrecer experiencias de viaje seguras, cómodas y memorables. 
 
 Eslogan: Viaja segura, explora sin límites.
